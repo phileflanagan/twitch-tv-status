@@ -1,0 +1,68 @@
+body {
+	background-color: #333;
+}
+#headline h1{
+	font-family: Raleway, sans-serif;
+	color: #fae3b4;
+}
+#card {
+	background-color:#91d0b1;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	box-shadow: 0px 0px 30px #222;
+}
+
+.section1, .section2, .section3, .section4 {
+	height: 100px;
+	padding: 5px;
+	background-color: #eee;
+	font-family: Roboto, sans-serif;
+	color: #333;
+}
+
+
+
+.section1 img {
+	max-width: 70%;
+	margin: auto;
+	border: 5px solid white;
+}
+
+.section2, .section3, .section4{
+	padding-top:4%;
+}
+
+.glowRed {
+	color: red;
+	text-shadow: 0px 0px 5px #982a00;
+}
+
+.glowGreen {
+	color: #01f941;
+	text-shadow: 0px 0px 5px #38f468;
+}
+
+.buttonRow {
+	background-color: #ec845c;
+	padding: 0px 0px 10px 0px;
+}
+
+
+
+.buttonRow a {
+	text-decoration: none;
+		color: #333;
+}
+
+.buttonRow h3{
+	font-size: 14px;
+	font-weight: 700;
+}
+.activeButton{
+	color: #ececec;
+}
+
+
+.color1 {color: #fae3b4}
+.color2 {color: #91d0b1}
+.color3 {color: #ec845c;}
